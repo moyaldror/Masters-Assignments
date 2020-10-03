@@ -1,0 +1,6 @@
+[submodule "ImageProcessingAssignments"]
+	path = ImageProcessingAssignments
+	url = git@github.com:moyaldror/ImageProcessingAssignments.git
+[submodule "tls-proxy"]
+	path = tls-proxy
+	url = git@github.com:moyaldror/tls-proxy.git
